@@ -16,5 +16,5 @@
 * Propellers
 
 # Player related
-* Foot steps
+* Footsteps
 * Object "collisions"
