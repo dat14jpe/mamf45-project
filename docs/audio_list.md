@@ -14,3 +14,7 @@
 * Mechanism opening/closing outer hatch
 * Warning when e.g. approaching crash or running out of energy
 * Propellers
+
+# Player related
+* Foot steps
+* Object "collisions"
