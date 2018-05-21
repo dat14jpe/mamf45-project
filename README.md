@@ -1,7 +1,7 @@
 # mamf45-project
 This is a project in the course MAMF45 (Virtual Reality in Theory and Practice) at LTH.
 
-![Airship in foreground, snowy mountainous landscape and aurora in background](pictures/20180521_226_airship.jpg)
+![Airship in foreground, snowy mountainous landscape and aurora in background](pictures/20180522_245_airship.jpg)
 
 Come aboard the airship **[Sól](https://en.wikipedia.org/wiki/S%C3%B3l_(sun))** (named after a Norse sun goddess, as the fictional ship is envisioned to be solar-powered), a majestic cruise vehicle in the style and size of the passenger zeppelins of old. The ship's outer dimensions equal those of the ill-fated Hindenburg (though lifted by wholly inert helium rather than flammable hydrogen gas, of course). The ship can both be piloted and freely explored, in an attempt to let the player experience the true scale of the largest flying craft humanity has ever constructed.
 As an airship of the bright future, Sól includes a three-dimensional holographic map which can be used to find one's way around the ship.
