@@ -18,9 +18,9 @@ The program can be run in either desktop or VR mode; to properly run in VR mode,
 * Press H (or left click on the faint holographic ring following the center of the player) to (de)activate the hologram.
 
 ## Download link for final project
-[Version 20180522 003](https://drive.google.com/uc?export=download&id=1Y5sU1HhMNgSfr988RIcj7Gc50MToo4Fx)
-[Version 20180522 002](https://drive.google.com/uc?export=download&id=1PKOL1zBOppF6g2XvNXNLi2PnLvfw73vB)
-[Version 20180520 001](https://drive.google.com/uc?export=download&id=1cpor_1xbUVkMoLBHyfMOzbuxskCuQObm)
+* [Version 20180522 003](https://drive.google.com/uc?export=download&id=1Y5sU1HhMNgSfr988RIcj7Gc50MToo4Fx)
+* [Version 20180522 002](https://drive.google.com/uc?export=download&id=1PKOL1zBOppF6g2XvNXNLi2PnLvfw73vB)
+* [Version 20180520 001](https://drive.google.com/uc?export=download&id=1cpor_1xbUVkMoLBHyfMOzbuxskCuQObm)
 
 ## Group members
 * Dennis Jin
