@@ -17,7 +17,8 @@ The program can be run in either desktop or VR mode; to properly run in VR mode,
 * Drag the mouse while holding the left mouse button to drag the virtual controls.
 * Press H (or left click on the faint holographic ring following the center of the player) to (de)activate the hologram.
 
-## To do: download link for packaged final project
+## Download link for packaged final project
+[Version 20180522 002](https://drive.google.com/uc?export=download&id=1PKOL1zBOppF6g2XvNXNLi2PnLvfw73vB)
 
 ## Group members
 * Dennis Jin
